@@ -1,0 +1,10 @@
+.navber-section{
+  display: flex;
+  justify-content: space-between;
+  width: 1140px;  
+  
+}
+.title{
+color: #4E47FF;
+text-align: left;
+}
