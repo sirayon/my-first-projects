@@ -139,6 +139,7 @@ ul li a{
   display: flex;
   gap: 24px;
 
+
 }
 .skill{
   padding: 30px;
@@ -168,10 +169,45 @@ box-shadow: 0px 6px 50px 0px #621414;
 
 
 }
-.align-iteams{
-  background-color:#A17474;
-  width: 1140px;
-  height: 651px;
-
+.focus{
+  width: 1150px
+  height: 572px;
+  background-color:#f3efef;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  border-radius:10px;
 
 }
+.focus-option{
+  padding:40px;
+}
+.focus-option h1{
+font-size: 50px;
+font-weight:bold;
+padding: 10px;
+}
+.focus-option p{
+  color:#a1a3b4;
+  font-size: 15px;
+  padding: 10px;
+
+}
+.focus-option a button{
+  width: 195px;
+  height:48px;
+  background-color:#4F46E5;
+  color: #FFFFFF;
+  border:none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+
+}
+.focus-option.focus-png{
+  height:314px;
+  width: 780px;
+  border-radius:48px;
+
+}
+
+
