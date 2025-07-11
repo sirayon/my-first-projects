@@ -148,8 +148,30 @@ box-shadow: 0px 6px 50px 0px #621414;
 
 
 }
-main section{
-  margin-top: 130px;
-  margin-bottom: 130px;
+.focus.better{
+  align-items: center;
+  justify-content: center;
 }
+.inline{
+  text-align: center;
+}
+.button{
+  text-align: center;
+}
+.img-png{
+  font-weight: 736px;
+  border-radius: 48px;
+  font height: 319px;
+  
+  border:none
+  
 
+
+}
+.align-iteams{
+  background-color:#A17474;
+  width: 1140px;
+  height: 651px;
+
+
+}
