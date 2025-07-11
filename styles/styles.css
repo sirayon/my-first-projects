@@ -1,7 +1,9 @@
 
 .header{
   background-image: url(../Assets/Hero-bg.png);
-  background-size: cover;
+ 
+  margin:0px;
+  padding: 0px;
 }
 
 .open-sans-normal> {
@@ -17,7 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 50px 200px;
+  
 }
 nav ul{
   display: flex;
@@ -98,3 +100,32 @@ ul li a{
   width: 230px;
   height: 48px;
 }
+.line-align{
+  display: flex;
+}
+.users{
+  background-color: aliceblue;
+  margin-top: 100px;
+  width: 1140px;
+  height: 306px;
+  padding: 20px;
+}
+.users-container{
+  display: flex;
+  justify-content: space-around;
+}
+.users-title{
+  justify-content: center;
+  text-align: center;
+}
+.main-iteams{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  
+  
+ 
+
+}
+
